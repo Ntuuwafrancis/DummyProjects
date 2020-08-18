@@ -2,4 +2,5 @@ Change made by dev2
 changed by dev1
 change made to understand .git
 Modified in master branch to test git merge from git hub
+Modified in master branch to test git merge from git.
 
